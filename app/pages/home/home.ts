@@ -48,7 +48,7 @@ export class HomePage {
   let toast =  this.toast.create({
       message: msg,
       duration: 3000,
-      position:'buttom'
+      position:'bottom'
       
     })
     toast.present();
